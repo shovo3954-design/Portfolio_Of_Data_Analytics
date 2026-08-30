@@ -21,21 +21,6 @@ XYZ Co. needed a clear picture of what was actually driving their revenue and pr
 ### 🛠️ Tools & Skills Used
 - Python, Excel, SQL, Power BI
 
-### 📈 Key Insights
-- *(Add 3–5 bullet points here once your analysis is done — e.g., "Region X consistently underperformed budget by 12% in Q4" or "Channel Y drove 40% of profit despite only 20% of sales volume")*
-
-### 📂 Dashboard / Report
-- *(Link to your Power BI dashboard, Tableau public link, or a screenshot embedded below)*
-
-```
-![Dashboard Preview](path/to/screenshot.png)
-```
-
-### ✅ Conclusion & Recommendations
-- *(Summarize what XYZ Co. should do differently based on the findings)*
-
----
-
 ## 📬 Contact
 Feel free to connect if you'd like to discuss this project or explore collaboration opportunities.
 
